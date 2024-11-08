@@ -1,10 +1,10 @@
 <template>
   <div class="about">
-   cc// <h1>This i
+   cc// <div>This i
     
     s an ab
     
-    out page</h1>
+    out page</div>
   </div>
 </template>
 
